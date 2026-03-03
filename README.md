@@ -403,12 +403,4 @@ Future enhancements planned:
 - [ ] React/Vue component versions
 - [ ] npm package
 
-## ⭐ Show Your Support
 
-If you find this framework helpful, please give it a star! ⭐
-
----
-
-**Built with ❤️ and modern web standards**
-
-*Last updated: March 2026*
