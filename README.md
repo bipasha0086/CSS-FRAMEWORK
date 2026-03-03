@@ -1,11 +1,6 @@
 # 🎨 Custom CSS Framework - BrandName UI
 
 A modern, accessible, and fully customizable CSS framework built with TailwindCSS and custom components. Perfect for rapid development of beautiful, responsive web applications.
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Accessibility](https://img.shields.io/badge/accessibility-WCAG%202.1%20AA-brightgreen)
-
 ## ✨ Features
 
 - 🎨 **Customizable Theme** - Easy-to-customize color palette, typography, and spacing
